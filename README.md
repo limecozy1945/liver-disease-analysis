@@ -16,7 +16,7 @@ An end-to-end machine learning pipeline that predicts liver disease risk from pa
 8. [Usage](#usage)
 9. [Limitations](#limitations)
 10. [Disclaimer](#disclaimer)
-11. [Author](#author)
+
 
 ---
 
