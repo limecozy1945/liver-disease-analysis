@@ -197,5 +197,3 @@ patient = {
 This project is intended for research and educational purposes only. It is not a medical device and must not be used for diagnosis or treatment decisions. Always consult a qualified healthcare professional.
 
 
-**Nandana Satish**
-GitHub: [@<your-username>](https://github.com/<your-username>)
