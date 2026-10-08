@@ -139,22 +139,9 @@ Clinical biomarkers are individually more informative than lifestyle features, b
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
-cd <repository-name>
-pip install -r requirements.txt
-```
+git clone https://github.com/limecozy1945/liver-disease-analysis.git
+cd liver-disease-analysis
 
-Suggested `requirements.txt`:
-
-```
-pandas
-numpy
-scikit-learn
-xgboost
-shap
-matplotlib
-seaborn
-jupyter
 ```
 
 ## Usage
